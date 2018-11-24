@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pessoas>
+    <pessoa>
+        <nome>João da Silva</nome>
+        <idade>55</idade>
+    </pessoa>
+    <pessoa>
+        <nome>Dênis Leonardo Zaniro</nome>
+        <idade>33</idade>
+    </pessoa>
+    <pessoa>
+        <nome>Cristina Helena Concion Zaniro</nome>
+        <idade>62</idade>
+    </pessoa>
+    <pessoa>
+        <nome>José Fernandes</nome>
+        <idade>42</idade>
+    </pessoa>
+    <pessoa>
+        <nome>Maria do Carmo</nome>
+        <idade>23</idade>
+    </pessoa>
+</pessoas>
